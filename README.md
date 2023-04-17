@@ -11,6 +11,7 @@
 ## Запуск (h2)
 ``` 
 bash ./script.sh
+```
 
 ## Портирование (h2)
 Данный проект можно портировать на другие языки программирования.
@@ -34,15 +35,14 @@ int main() {
 	return 0;
 }
 ```
-> 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F401594491776635671%2F&psig=AOvVaw1qVlKLUX9UYDHCFm_q4ktq&ust=1681809394851000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDA9rfKsP4CFQAAAAAdAAAAABAD) 
-Попробуйте реализовать на Python, Go и Javascript.
+> :bulb: Попробуйте реализовать на Python, Go и Javascript.
 
 ## Контакты разработчика (h2)
 Ниже найдете список ссылок для связки с автором.
-|**Платформа**|**Ссылка**                                  |**Отвечу за**|
-|-------------|--------------------------------------------|-------------|
-|Почта        |[ссылка](https://stepik.org/users/591923555)|24 часа      |
-|linkedIn     |[ссылка](https://stepik.org/users/591923555)|3часа        |
-|WhatsApp     |[ссылка](https://stepik.org/users/591923555)|30 минут     |
-|Telegram     |[ссылка](https://stepik.org/users/591923555)|5минут       |
+
+|**Платформа**|**Ссылка**                                  | **Отвечу за** |
+|:-------------|:-------------------------------------------:|:--------------|
+|Почта        |[ссылка](https://stepik.org/users/591923555)| 24 часа       |
+|linkedIn     |[ссылка](https://stepik.org/users/591923555)| 3 часа        |
+|WhatsApp     |[ссылка](https://stepik.org/users/591923555)| 30 минут      |
+|Telegram     |[ссылка](https://stepik.org/users/591923555)| 5минут        |
